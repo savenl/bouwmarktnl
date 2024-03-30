@@ -1,0 +1,94 @@
+#tabellen {
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: #b9b9b9;
+    width: 50%;
+    border: 2cm;
+}
+
+#product1 {
+    background-color: #ffffff;
+}
+
+#product2 {
+    background-color: #fd2525;
+}
+
+#product3 {
+    background-color: #f75656;
+}
+
+#product4 {
+    background-color: #fc8787;
+}
+
+#product5 {
+    background-color: #f3b7b7;
+}
+
+#aantal1 {
+    background-color: #ffffff;
+}
+
+#aantal2 {
+    background-color: #2428fd;
+}
+
+#aantal3 {
+    background-color: #4346fc;
+}
+
+#aantal4 {
+    background-color: #7779fa;
+}
+
+#aantal5 {
+    background-color: #b0b1fd;
+}
+
+#prijs1 {
+    background-color: #ffffff;
+}
+
+#prijs2 {
+    background-color: #036914;
+}
+
+#prijs3 {
+    background-color: #038b19;
+}
+
+#prijs4 {
+    background-color: #03a31e;
+}
+
+#prijs5 {
+    background-color: #04e229;
+}
+
+#totaal1 {
+    background-color: #ffffff;
+}
+
+#totaal2 {
+    background-color: #e2d324;
+}
+
+#totaal3 {
+    background-color: #e2d344;
+}
+
+#totaal4 {
+    background-color: #e2d364;
+}
+
+#totaal5 {
+    background-color: #e2d384;
+}
+
+#totaal6 {
+    background-color: #e2d394;
+}
+
+#footer {
+    font-family:'Courier New', Courier, monospace
+}
